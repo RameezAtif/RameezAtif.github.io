@@ -1,0 +1,1 @@
+In this assignment we aplied our knowledge in git and github managing branches and making meaningful commits
